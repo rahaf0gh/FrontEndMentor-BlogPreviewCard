@@ -12,8 +12,8 @@
   .card {
     background-color: hsl(0, 0%, 100%);
     width: 380px;
-    height: 500px;
-    padding: 14px;
+    /* height: 500px; */
+    padding: 22px 20px;
     border-radius: 12px;
     border: 0.5px solid hsl(0, 0%, 7%);
 
@@ -39,7 +39,7 @@
   .text {
     color: hsl(0, 0%, 7%);
     font-size: 16px;
-    margin: 14px 8px;
+    margin: 18px 8px;
   }
   .text button {
     background-color: hsl(47, 88%, 63%);
@@ -50,7 +50,7 @@
   }
   .text .Published {
     margin: 14px 0;
-    font-size: 14px;
+    font-size: 16px;
   }
   .text .paragraph {
     margin: 10px 0;
