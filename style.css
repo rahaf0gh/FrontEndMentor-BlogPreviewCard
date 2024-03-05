@@ -11,9 +11,8 @@
   }
   .card {
     background-color: hsl(0, 0%, 100%);
-    width: 340px;
-    height: 470px;
-    padding: 15px;
+    width: 380px;
+    padding: 18px;
     border-radius: 12px;
     border: 0.5px solid hsl(0, 0%, 7%);
 
@@ -44,19 +43,17 @@
   .text button {
     background-color: hsl(47, 88%, 63%);
     border: none;
-    padding: 4px 8px;
+    padding: 6px 12px;
     border-radius: 4px;
     font-weight: 800;
-    font-size: 12px;
   }
   .text .Published {
     margin: 18px 0;
-    font-size: 12px;
+    font-size: 14px;
   }
   .text .paragraph {
     margin: 12px 0;
     color: hsl(0, 0%, 50%);
-    font-size: 14px;
   }
 
   /* -----  */
